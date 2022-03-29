@@ -1,0 +1,140 @@
+#div_top{
+
+    height: 55px;
+    background-color: #8598ca;
+
+}
+
+#div_top_chat{
+
+    height: 55px;
+    
+    
+}
+
+#div_pesq{
+
+    margin: initial;
+    height: 47px;
+    background-color: #363d79;
+
+}
+
+input{
+    font-family: inherit;
+}
+
+p{
+    font-family:  inherit;
+}
+
+#div_chat{
+
+    height: 47px;
+    background-color: #0b0c18;
+
+}
+
+#div_conta{
+
+    height: 72px;
+    background-color: #0f101b;
+
+}
+
+h6{
+
+    font-family: inherit;
+    font-size: 17px;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+#hora1{
+
+    font-size: 12px;
+    margin-top: 18px;
+    margin-left: 145px;
+    color: #167e4a;
+
+}
+
+#hora2{
+
+    font-size: 12px;
+    margin-top: 18px;
+    margin-left: 145px;
+    color: #167e4a;
+
+}
+
+#hora3{
+
+    font-size: 12px;
+    margin-top: 18px;
+    margin-left: 172px;
+    color:antiquewhite;
+
+}
+
+#hora4{
+
+    font-size: 12px;
+    margin-top: 18px;
+    margin-left: 172px;
+    
+
+}
+
+#hora5{
+
+    font-size: 12px;
+    margin-top: 18px;
+    margin-left: 172px;
+
+}
+
+#hora6{
+
+    font-size: 12px;
+    margin-top: 18px;
+    margin-left: 172px;
+
+}
+
+#hora7{
+
+    font-size: 12px;
+    margin-top: 18px;
+    margin-left: 172px;
+
+}
+
+
+#tela_img{
+
+   width: 1000px;
+   height: 622px;
+   margin-top: 19px;
+
+}
+
+img{
+
+    cursor: pointer;
+
+}
+
+#div_text{
+
+    margin-top: 100px;
+
+}
+
+#search{
+
+    margin-left: 10px;
+    background-color: #0f101b;
+
+}
+
